@@ -12,4 +12,4 @@ Sample website with plenty of files for demos
 Please fork this repositiory and then issue Pull Requests for review.
 
 ### Copyright
-Git.Training.
+Git.Training. All rights reserved
